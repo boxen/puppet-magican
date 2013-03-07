@@ -1,5 +1,7 @@
 # Magican Puppet Module for Boxen
 
+Install [Magican](), Mac cleaner, monitor & duplicate remover and more...
+
 ## Usage
 
 ```puppet
