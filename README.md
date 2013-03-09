@@ -1,4 +1,4 @@
-# Magican Puppet Module for Boxen
+# Magican Puppet Module for Boxen [![Build Status](https://travis-ci.org/boxen/puppet-magican.png?branch=master)](https://travis-ci.org/boxen/puppet-magican)
 
 Install [Magican](), Mac cleaner, monitor & duplicate remover and more...
 
@@ -14,5 +14,8 @@ include magican
 
 ## Development
 
-Write code. Run `script/cibuild` to test it. Check the `script`
-directory for other useful tools.
+Write code. Run one of the following tasks to test it:
+* `rake syntax`
+* `rake style`
+* `rake spec`
+* `rake build`
