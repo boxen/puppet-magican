@@ -1,4 +1,4 @@
-# Public: Install Magican to /Applications 
+# Public: Install Magican to /Applications
 #
 # Examples
 #
